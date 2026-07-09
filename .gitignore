@@ -1,0 +1,24 @@
+# --- Vivado project (autogenerato, voluminoso: NON committare) ---
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+*.srcs/
+.Xil/
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.wcfg
+*.backup.jou
+*.backup.log
+
+# --- file temporanei / OS / editor ---
+*~
+*.probe
+.probe
+.DS_Store
+Thumbs.db
